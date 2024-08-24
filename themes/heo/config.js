@@ -5,7 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '点击这里获取最新资讯', url: 'https://x.com/btcnoder' }
+    // { title: '点击这里获取最新资讯', url: 'https://x.com/btcnoder' }
   ],
 
   // 英雄区左右侧组件颠倒位置
